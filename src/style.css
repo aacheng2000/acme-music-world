@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <script src='/dist/main.js' defer></script>
-<style>/* Add a black background color to the top navigation */
+/* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
   overflow: hidden;
@@ -26,11 +22,6 @@
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: dodgerblue;
+  background-color: #04AA6D;
   color: white;
-}</style>
-  </head>
-  <body>
-    <div id='root'></div>
-  </body>
-</html>
+}
